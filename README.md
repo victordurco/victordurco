@@ -1,9 +1,9 @@
 ## Hello World, I'm Victor  👋
 
-I am a full stack web developer in training who studied mechanical engineering for 4 years at UNICAMP.
+I am a full stack web developer who studied mechanical engineering for 4 years at UNICAMP.
 
 - ✍ You can find my projects here [portfolio](https://github.com/victordurco?tab=repositories)
-- 🌱 I’m currently learning Node js and Typescript
+- 🌱 I’m currently GraphQl and new architectures (microservices)
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: i love phone calls  (and none of my friends like it)
 

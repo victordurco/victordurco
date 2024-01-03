@@ -5,7 +5,6 @@ I am a full stack web developer who studied mechanical engineering for 4 years a
 - ✍ You can find my projects here [portfolio](https://github.com/victordurco?tab=repositories)
 - 🌱 I’m currently GraphQl and new architectures (microservices)
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: i love phone calls  (and none of my friends like it)
 
 
 ### Talk with me :
